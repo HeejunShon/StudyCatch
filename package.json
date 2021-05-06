@@ -36,6 +36,6 @@
     "passport-local": "^1.0.0",
     "pbkdf2-password": "^1.2.1",
     "ppt-png": "^0.5.5",
-    "sanitize-html": "^1.18.2"
+    "sanitize-html": "^2.3.2"
   }
 }
